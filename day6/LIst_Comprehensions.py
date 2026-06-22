@@ -4,3 +4,5 @@ for i in range(6):
     squares.append(i*i)
 
 print(squares)
+sq = [i*i for i in range(6)]
+print(sq)

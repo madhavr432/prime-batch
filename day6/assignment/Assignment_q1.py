@@ -1,0 +1,5 @@
+f = open("names.txt","w")
+f.write("Madhav, \nRaghav, \nSonu, \nMonu, \nSumit")
+f.close()
+c = open("names.txt","r")
+print(c.read())

@@ -37,7 +37,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/prime-batch.git
+git clone https://github.com/madhavr432/prime-batch.git
 Navigate into the folder:
 
 bash

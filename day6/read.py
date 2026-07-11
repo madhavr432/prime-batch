@@ -1,4 +1,4 @@
-f = open("sample.txt", "r")
+f = open("sample.txt","r")
 # data = f.read()
 # print(data)
 # print(type(data))

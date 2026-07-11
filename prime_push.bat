@@ -19,5 +19,5 @@ git stash pop || echo No stash to apply
 :: Push to GitHub
 git push origin main
 
-:: Keep window open to see errors
+:: Keep window open
 pause
